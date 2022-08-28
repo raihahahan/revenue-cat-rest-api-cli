@@ -116,7 +116,7 @@ $ npm start 1 $RCAnonymousIDxxx    # DEBUG: returns an object containing the cus
    npm install
    ```
 4. Create a `.env` file at the root of the project.
-4. Enter your API in `.env`
+4. Enter your secret API key in `.env`
    ```.env
    REVENUE_CAT_SK_REFUND_KEY=YOUR_SECRET_KEY
    ```
