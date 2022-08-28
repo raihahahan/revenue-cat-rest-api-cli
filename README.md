@@ -33,7 +33,7 @@
     <p>You will only need the app_user_id (e.g. $RCAnonymousIDxxx...) and store_transaction_id (e.g. GPA.3309-9122-6177-45730)</p>
     <p><b>NOTE: Only works for one-time purchase items</b></p>
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/raihahahan/revenue-cat-rest-api-cli/blob/main/documentation.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
