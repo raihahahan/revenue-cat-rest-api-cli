@@ -36,8 +36,6 @@
     <a href="https://github.com/raihahahan/revenue-cat-rest-api-cli/blob/main/documentation.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
     <a href="https://github.com/raihahahan/revenue-cat-rest-api-cli/issues">Report Bug</a>
     ·
     <a href="https://github.com/raihahahan/revenue-cat-rest-api-cli/issues">Request Feature</a>
