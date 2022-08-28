@@ -21,7 +21,8 @@ export async function userInterface() {
         console.log(strings.usage_1);
         return;
       }
-      await debugUser();
+      const app_user_id_test = process.argv[3];
+      await debugUser(app_user_id_test);
       break;
     default:
       if (process.argv.length != 2) console.log(strings.default);

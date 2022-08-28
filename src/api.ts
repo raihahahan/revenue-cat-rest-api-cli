@@ -22,9 +22,8 @@ export async function refund(
   }
 }
 
-export async function debugUser() {
+export async function debugUser(app_user_id: string) {
   try {
-    const app_user_id = process.argv[3];
     const res = await axios.get(
       `https://api.revenuecat.com/v1/subscribers/${app_user_id}`,
       {
